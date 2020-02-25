@@ -16,5 +16,5 @@ This shows how safaricom calculates the amount of bundles to give on a specific 
 
 if you successfully build your project you will see the following result,to use the commandline function to key in your amount close the graph window
 
-<img src="/docs/screen_shot.png" height="600" />
+<img src="/docs/screen_shot.png" height="300" />
 
